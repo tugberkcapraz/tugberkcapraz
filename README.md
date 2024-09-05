@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tugberk
 - 👀 I’m a data scientist
-- 🌱 I’m currently working on Azure 
 - 📫 How to reach me tugberkcapraz@gmail.com
 
 <!---.
